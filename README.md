@@ -50,6 +50,8 @@
  <ul>
   <li> $ set FLASK_APP= app.py</li>
   <li> $ flask run</li>
+   OR
+  <li> Python app.py </li>
   </ul>
   
   <hr>
